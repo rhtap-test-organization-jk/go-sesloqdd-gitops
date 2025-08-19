@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap-test-organization-jk/go-sesloqdd:468fc86ecbfdb68f936d10c5abaa67e2e403225b@sha256:48a5aa2cdf456a81dca36eea364db46077c5c6754d4fce5351d2a348cefeac4c
+        - image: quay.io/rhtap-test-organization-jk/go-sesloqdd:234f13b246e613a144b4e3020a00b0d72cc69acc@sha256:1d1bcc95b714f4ce4fdadfb331c5b9b3ec1a48a61f286b0c5ee7d180e7aa8bf7
           name: container-image
